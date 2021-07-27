@@ -10,8 +10,16 @@
 ⚡ I'm interested in Java, Spring, Back-end  
 ⚡ I want to be a back-end developer   
 
-![velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohzzi)
-![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/oh_zzi_/)
+<a href="https://velog.io/@ohzzi">
+    <img 
+        src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohzzi/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.instagram.com/oh_zzi_/">
+    <img 
+        src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/oh_zzi_/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohzzi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) 
 
