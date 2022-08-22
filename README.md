@@ -10,6 +10,9 @@
 ⚡ I'm interested in Java, Spring, Back-end  
 ⚡ I want to be a back-end developer   
 
+### Woowacourse
+📢 What I learned in Woowacourse - [repository](https://github.com/Ohzzi/woowacourse)
+
 <a href="https://velog.io/@ohzzi">
     <img 
         src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohzzi/"
