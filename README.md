@@ -18,7 +18,7 @@
 </a>
 
 ### 🤔 저에 대해 더 궁금하시다면?
-- [이력서](https://battle-guide-a40.notion.site/0cc22fac7fc2435c8eb76fbcdb25e84a)
+- [이력서](https://battle-guide-a40.notion.site/7a8ed7476fba4cb38857de8d0e5075cf)
 - [포트폴리오](https://battle-guide-a40.notion.site/720a25e4e3314e6fbb6c2a3fc030d46f)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohzzi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) 
