@@ -1,6 +1,6 @@
 # 오지훈 Oh Jihoon
 
-💸 토스뱅크 Server Developer 2022.1. ~
+💸 토스뱅크 Server Developer 2023.1. ~
 
 _📚 우아한테크코스 4기 2022.2. ~ 2022.11._ _[repository](https://github.com/Ohzzi/woowacourse)_  
 _🔭 동국대학교 MAT & CSE 16 2016.3. ~ 2022.2._
