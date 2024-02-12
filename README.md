@@ -8,11 +8,11 @@ _🔭 동국대학교 MAT & CSE 16 2016.3. ~ 2022.2._
 ---
 
 ### 🤔 저에 대해 더 궁금하시다면?
-<a href="https://velog.io/@ohzzi">
+<a href="https://ohzzi.io">
     <img 
         src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=gatsby&logoColor=white&link=https://ohzzi.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a><br>
 <a href="https://www.instagram.com/oh_zzi_/">
     <img 
         src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/oh_zzi_/"
