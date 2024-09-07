@@ -19,7 +19,4 @@ _🔭 동국대학교 MAT & CSE 16 2016.3. ~ 2022.2._
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- [이력서](https://battle-guide-a40.notion.site/7a8ed7476fba4cb38857de8d0e5075cf)
-- [포트폴리오](https://battle-guide-a40.notion.site/720a25e4e3314e6fbb6c2a3fc030d46f)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhzzi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
